@@ -1,0 +1,66 @@
+{
+  "ActiveSession": {
+    "events": [
+      {
+        "account": null,
+        "bytes_truncated": 0,
+        "encryption_mode": null,
+        "environment": null,
+        "location": null,
+        "name": null,
+        "network_info": {
+          "cell": null,
+          "cellular_network_type": null,
+          "connection_type": 1,
+          "wifi_access_point": null,
+          "wifi_networks": null
+        },
+        "number": 1,
+        "time": 11,
+        "type": 7,
+        "value": null
+      },
+      {
+        "account": null,
+        "bytes_truncated": 0,
+        "encryption_mode": null,
+        "environment": null,
+        "location": null,
+        "name": null,
+        "network_info": {
+          "cell": null,
+          "cellular_network_type": null,
+          "connection_type": 1,
+          "wifi_access_point": null,
+          "wifi_networks": null
+        },
+        "number": 2,
+        "time": 11,
+        "type": 7,
+        "value": null
+      }
+    ],
+    "id": 1645189048,
+    "session_desc": {
+      "locale": "et-EE",
+      "location": null,
+      "network_info": null,
+      "session_type": 0,
+      "start_time": {
+        "server_time_offset": null,
+        "time_zone": 7200,
+        "timestamp": 1645189048
+      }
+    },
+    "EventCounter": 3,
+    "LastEventTimestamp": 1645189059,
+    "LastEventType": 7,
+    "LastUpdateTimestamp": 1645189056,
+    "ReportParameters": null
+  },
+  "CompletedSessions": [ ],
+  "ForceSend": false,
+  "ReportPackages": [ ],
+  "ReportedEventsCount": 2,
+  "LastFlushTime": "\/Date(1645189048916)\/"
+}
